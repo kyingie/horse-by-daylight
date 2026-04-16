@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: PlayerCamera
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-449.0,"y":-206.0},"guid":"dd8e1015-87cd-430e-aba5-621875ab0811","$version":"A","$type":"Unity.VisualScripting.Update"}],"$version":"A"}}'
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-131.4078,"y":-60.7462},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-209.0,"y":-262.0},"guid":"dd8e1015-87cd-430e-aba5-621875ab0811","$version":"A","$type":"Unity.VisualScripting.Update"},{"position":{"xMin":-383.0,"yMin":-388.0,"xMax":-97.0,"yMax":-288.0},"title":"Player
+      Camera","body":"This graph is for the camera movement","colorTheme":"Classic","guid":"5f441a00-6afe-4513-b191-d5046460dce8","$type":"Unity.VisualScripting.StickyNote"}],"$version":"A"}}'
     _objectReferences: []

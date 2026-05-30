@@ -12,9 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Marco Test.unity
     guid: ee20d70125f95c447b44db84b4c014b3
   - enabled: 1
-    path: Assets/Scenes/Main Scene.unity
-    guid: cda798563231a824797b465cf1425407
-  - enabled: 1
     path: Assets/Scenes/Start_Menu.unity
     guid: 375202977f6be2a4da78364eeb827f6b
+  - enabled: 1
+    path: Assets/Scenes/Main Scene.unity
+    guid: cda798563231a824797b465cf1425407
   m_configObjects: {}
